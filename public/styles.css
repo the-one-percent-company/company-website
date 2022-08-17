@@ -2,14 +2,18 @@ body {
     font-family: "Poppins", sans-serif;
     text-align: center;
     margin-top: 100px;
+    margin-bottom: 100px;
 }
 
 .container {
     width: 50%;
     margin: auto;
-    margin-top: 50px;
 }
 
 .text-left {
     text-align: left;
+}
+
+.block {
+    margin-top: 80px;
 }
